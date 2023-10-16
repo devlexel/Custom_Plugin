@@ -1,0 +1,20 @@
+.waiting-list-table-main, .waiting-list-table-main th, .waiting-list-table-main td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: left;
+}
+.waiting-list-table-main th, .waiting-list-table-main td {
+	padding: 20px; 
+}
+.waiting-list-table-main {
+	background-color: #f2f2d1;
+}
+.waitingno{
+	background: red;
+    padding: 1px 5px;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: bold;
+    display: initial;
+}
+.btn{text-transform: uppercase;}
